@@ -5,6 +5,10 @@
 
 ![](https://github.com/drilnet/vector-06c-color256/blob/master/UA.png)
 
+Каталог (сюда ложится результат работы скрипта):
+
+    Images PNG
+
 Таблицы перекодировки цвета (эта информация есть в [Wiki](https://github.com/drilnet/vector-06c-color256/wiki)):
 
     Vector-06C_Color_256.RUS.1251.txt
