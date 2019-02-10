@@ -16,6 +16,7 @@
 
 Для работы скрипта необходим [ImageMagick](https://www.imagemagick.org).
 
+Платформа: [FreeBSD](https://www.freebsd.org/), [Linux](https://www.linux.org/) и т.п. 
 
 
 Все **256** цветов:
