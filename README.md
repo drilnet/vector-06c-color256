@@ -20,7 +20,6 @@
 
 Все **256** цветов **Вектор'а-06Ц**:
 
-![](https://github.com/drilnet/vector-06c-color256/blob/master/Images%20PNG/Vector-06C_Color_256.3.png)
+![](https://github.com/drilnet/vector-06c-color256/blob/master/Images%20PNG/Vector-06C_Color_256.4.png)
 
-
-asdfgh
+Дополнительная информация (таблицы перекодировки цвета Вектор'а-06Ц и PC компьютер): [Wiki](https://github.com/drilnet/vector-06c-color256/wiki)
