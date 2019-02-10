@@ -15,6 +15,7 @@
     Vector-06C_Color_256.pl
 
 Платформа: [FreeBSD](https://www.freebsd.org/), [Linux](https://www.linux.org/) и т.п. 
+<br>
 Для работы скрипта необходим [ImageMagick](https://www.imagemagick.org).
 
 Все **256** цветов Вектор'а-06Ц:
