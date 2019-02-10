@@ -5,9 +5,7 @@
 
 ![](https://github.com/drilnet/vector-06c-color256/blob/master/UA.png)
 
-Каталог (сюда ложится результат работы скрипта):
-
-    Images PNG
+Каталог ```Images PNG``` - сюда ложится результат работы скрипта.
 
 Таблицы перекодировки цвета (эта информация есть в [Wiki](https://github.com/drilnet/vector-06c-color256/wiki)):
 
