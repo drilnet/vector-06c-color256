@@ -58,7 +58,7 @@
 **Репозиторий:** [Вектор-06Ц. Конвертер графических файлов GRF в BMP.](https://github.com/drilnet/vector-06c-grf2bmp)
 <br>
 <br>
-**Репозиторий:** [RLE кодирование своими руками (RLE8).](https://github.com/drilnet/rle)
+**Репозиторий:** [RLE кодирование своими руками (vRLE8).](https://github.com/drilnet/rle)
 
 <hr>
 
