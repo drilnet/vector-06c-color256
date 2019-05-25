@@ -30,7 +30,7 @@
 
 Дополнительная информация (таблицы перекодировки цвета **Вектор-06Ц** и **PC** компьютер): [Wiki](https://github.com/drilnet/vector-06c-color256/wiki).
 
-Украина. (**С**) Демидов С.В.
+[Ukraine](https://en.wikipedia.org/wiki/Ukraine) (Украина). (**С**) Демидов С.В.
 
 <hr>
 
