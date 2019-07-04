@@ -21,7 +21,9 @@
 
 Платформа для скрипта: [FreeBSD](https://www.freebsd.org/), [Linux](https://www.linux.org/) и т.п. 
 <br>
-Для работы скрипта необходим [Perl](http://www.perl.org/) и [ImageMagick](https://www.imagemagick.org).
+Скрипт написан на языке [Perl](http://www.perl.org/). 
+<br>
+Для работы скрипта необходим [ImageMagick](https://www.imagemagick.org).
 
 Все **256** цветов **Вектор'а-06Ц**:
 
