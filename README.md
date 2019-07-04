@@ -16,12 +16,12 @@
 
 Файл 'Vector-06C_Color_256.RUS.1251.txt' - Таблицы перекодировки цвета (в кодировке Windows).
 Файл 'Vector-06C_Color_256.RUS.UTF8.txt' - Таблицы перекодировки цвета (в кодировка FreeBSD, Linux).
-Файл 'Vector-06C_Color_256.pl'           - Скрипт на Perl (http://www.perl.org/).
+Файл 'Vector-06C_Color_256.pl'           - Скрипт на Perl.
 ```
 
 Платформа для скрипта: [FreeBSD](https://www.freebsd.org/), [Linux](https://www.linux.org/) и т.п. 
 <br>
-Для работы скрипта необходим [ImageMagick](https://www.imagemagick.org).
+Для работы скрипта необходим [Perl](http://www.perl.org/) и [ImageMagick](https://www.imagemagick.org).
 
 Все **256** цветов **Вектор'а-06Ц**:
 
