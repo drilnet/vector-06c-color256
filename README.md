@@ -11,19 +11,12 @@
 
 ### Что содержит репозиторий.
 
-Каталог ```'Images PNG'``` - сюда ложится результат работы скрипта.
-
-Таблицы перекодировки цвета (эта информация есть в [Wiki](https://github.com/drilnet/vector-06c-color256/wiki)):
-
 ```
-Файл 'Vector-06C_Color_256.RUS.1251.txt'
-Файл 'Vector-06C_Color_256.RUS.UTF8.txt'
-```
+Каталог 'Images PNG' - Сюда ложится результат работы скрипта.
 
-Скрипт на [Perl](http://www.perl.org/):
-
-```
-Файл 'Vector-06C_Color_256.pl'
+Файл 'Vector-06C_Color_256.RUS.1251.txt' - Таблицы перекодировки цвета (в кодировке Windows).
+Файл 'Vector-06C_Color_256.RUS.UTF8.txt' - Таблицы перекодировки цвета (в кодировка FreeBSD, Linux).
+Файл 'Vector-06C_Color_256.pl'           - Скрипт на Perl (http://www.perl.org/).
 ```
 
 Платформа для скрипта: [FreeBSD](https://www.freebsd.org/), [Linux](https://www.linux.org/) и т.п. 
