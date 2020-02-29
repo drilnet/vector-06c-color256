@@ -112,16 +112,6 @@
 
 <hr>
 
-**Ох уж этот русский язык!**
-
-Форум по русскому языку: [https://rusforus.ru](https://rusforus.ru)
-<br>
-Грамматика на PROMT Онлайн: [https://www.translate.ru/grammar](https://www.translate.ru/grammar)
-<br>
-Проверка слова (и др.): [http://new.gramota.ru](http://new.gramota.ru)
-
-<hr>
-
 **Никогда не сдавайся!**
 <br>
 Написать мне можно на (**замечания**, **предложения**): stdls[ухо]mail.ru или bbarsinov[ухо]gmail.com
