@@ -86,7 +86,7 @@
 <br>
 **Репозиторий:** [Вектор-06Ц. Конвертер графических файлов SPR в BMP](https://github.com/drilnet/vector-06c-spr2bmp "Конвертер SPR в BMP написан на Си (и есть версия на Perl)")
 <br>
-**Репозиторий:** [Вектор-06Ц. Конвертер графических файлов GRF в BMP](https://github.com/drilnet/vector-06c-grf2bmp "Конвертер GRF в BMP написан на Си (и есть версия на Perl))
+**Репозиторий:** [Вектор-06Ц. Конвертер графических файлов GRF в BMP](https://github.com/drilnet/vector-06c-grf2bmp "Конвертер GRF в BMP написан на Си (и есть версия на Perl)")
 <br>
 <br>
 **Репозиторий:** [RLE кодирование/декодирование своими руками (VRLE8, VRLE16)](https://github.com/drilnet/rle)
