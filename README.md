@@ -14,8 +14,8 @@
 ```
 Каталог 'Images PNG' - Сюда ложится результат работы скрипта.
 
-Файл 'Vector-06C_Color_256.RUS.1251.txt' - Таблицы перекодировки цвета (в кодировке Windows).
-Файл 'Vector-06C_Color_256.RUS.UTF8.txt' - Таблицы перекодировки цвета (в кодировке FreeBSD, Linux).
+Файл 'Vector-06C_Color_256.RUS.1251.txt' - Таблицы перекодировки цветов (в кодировке Windows).
+Файл 'Vector-06C_Color_256.RUS.UTF8.txt' - Таблицы перекодировки цветов (в кодировке FreeBSD, Linux).
 Файл 'Vector-06C_Color_256.pl'           - Скрипт на Perl.
 ```
 
