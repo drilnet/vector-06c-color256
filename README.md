@@ -19,7 +19,7 @@
 Файл 'Vector-06C_Color_256.pl'           - Скрипт на Perl.
 ```
 
-Платформа для скрипта: [FreeBSD](https://www.freebsd.org/), [Linux](https://www.linux.org/) и т.п. 
+Платформа для скрипта: [FreeBSD](https://www.freebsd.org/), [Linux](https://www.linux.org/). 
 <br>
 Скрипт написан на языке [Perl](http://www.perl.org/). 
 <br>
